@@ -1,0 +1,13 @@
+.booked-tab {
+  
+  max-width: 100%;
+  width: auto;
+  padding-left: 40px;
+  padding-right: 40px;
+  border-radius: 20px;
+}
+
+.table {
+  background-color: #FBFAF8 !important;
+  margin-bottom: 0;
+}
